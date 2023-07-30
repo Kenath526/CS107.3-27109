@@ -1,0 +1,8 @@
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\obj\Debug\ConsoleAppQuestion01.3.csproj.AssemblyReference.cache
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\obj\Debug\ConsoleAppQuestion01.3.csproj.SuggestedBindingRedirects.cache
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\obj\Debug\ConsoleAppQuestion01.3.csproj.CoreCompileInputs.cache
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\bin\Debug\ConsoleAppQuestion01.3.exe.config
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\bin\Debug\ConsoleAppQuestion01.3.exe
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\bin\Debug\ConsoleAppQuestion01.3.pdb
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\obj\Debug\ConsoleAppQuestion01.3.exe
+D:\SetUp\Visual Studio\Solutions\ConsoleAppQuestion01.3\ConsoleAppQuestion01.3\obj\Debug\ConsoleAppQuestion01.3.pdb
