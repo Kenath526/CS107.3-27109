@@ -1,0 +1,8 @@
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\bin\Debug\Lab 07 - Question 07.exe.config
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\bin\Debug\Lab 07 - Question 07.exe
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\bin\Debug\Lab 07 - Question 07.pdb
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\obj\Debug\Lab 07 - Question 07.csproj.AssemblyReference.cache
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\obj\Debug\Lab 07 - Question 07.csproj.SuggestedBindingRedirects.cache
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\obj\Debug\Lab 07 - Question 07.csproj.CoreCompileInputs.cache
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\obj\Debug\Lab 07 - Question 07.exe
+D:\wert\Lab 07 - Question 07\Lab 07 - Question 07\obj\Debug\Lab 07 - Question 07.pdb
