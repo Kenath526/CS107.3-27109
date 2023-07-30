@@ -1,0 +1,8 @@
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\bin\Debug\Lab 05 - Question 04.exe.config
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\bin\Debug\Lab 05 - Question 04.exe
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\bin\Debug\Lab 05 - Question 04.pdb
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\obj\Debug\Lab 05 - Question 04.csproj.AssemblyReference.cache
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\obj\Debug\Lab 05 - Question 04.csproj.SuggestedBindingRedirects.cache
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\obj\Debug\Lab 05 - Question 04.csproj.CoreCompileInputs.cache
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\obj\Debug\Lab 05 - Question 04.exe
+D:\wert\Lab 05 - Question 04\Lab 05 - Question 04\obj\Debug\Lab 05 - Question 04.pdb
