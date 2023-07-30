@@ -1,0 +1,8 @@
+D:\wert\Lan 01 Q02\Lan 01 Q02\bin\Debug\Lan 01 Q02.exe.config
+D:\wert\Lan 01 Q02\Lan 01 Q02\bin\Debug\Lan 01 Q02.exe
+D:\wert\Lan 01 Q02\Lan 01 Q02\bin\Debug\Lan 01 Q02.pdb
+D:\wert\Lan 01 Q02\Lan 01 Q02\obj\Debug\Lan 01 Q02.csproj.AssemblyReference.cache
+D:\wert\Lan 01 Q02\Lan 01 Q02\obj\Debug\Lan 01 Q02.csproj.SuggestedBindingRedirects.cache
+D:\wert\Lan 01 Q02\Lan 01 Q02\obj\Debug\Lan 01 Q02.csproj.CoreCompileInputs.cache
+D:\wert\Lan 01 Q02\Lan 01 Q02\obj\Debug\Lan 01 Q02.exe
+D:\wert\Lan 01 Q02\Lan 01 Q02\obj\Debug\Lan 01 Q02.pdb
