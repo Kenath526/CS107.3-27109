@@ -1,0 +1,8 @@
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\bin\Debug\Qustion3.exe.config
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\bin\Debug\Qustion3.exe
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\bin\Debug\Qustion3.pdb
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\obj\Debug\Qustion3.csproj.AssemblyReference.cache
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\obj\Debug\Qustion3.csproj.SuggestedBindingRedirects.cache
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\obj\Debug\Qustion3.csproj.CoreCompileInputs.cache
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\obj\Debug\Qustion3.exe
+E:\chanu\NSBM\22.2Sem2\C#\Lab1\Git\CS107.3-Lab-27115\Lab2\Qustion3\Qustion3\obj\Debug\Qustion3.pdb
